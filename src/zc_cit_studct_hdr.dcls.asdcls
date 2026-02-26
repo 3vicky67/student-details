@@ -1,0 +1,6 @@
+@EndUserText.label: 'ZC_CIT_STUDCT_HDR'
+@MappingRole: true
+define role ZC_CIT_STUDCT_HDR {
+  grant select on ZC_CIT_STUDCT_HDR
+  where INHERITING CONDITIONS FROM ENTITY ZR_CIT_STUDCT_HDR REPLACING { ROOT WITH _BaseEntity };
+}

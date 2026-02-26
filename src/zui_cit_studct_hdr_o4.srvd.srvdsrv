@@ -1,0 +1,11 @@
+@EndUserText: {
+  label: 'Service Definition for ZC_CIT_STUDCT_HDR'
+}
+@ObjectModel: {
+  leadingEntity: {
+    name: 'ZC_CIT_STUDCT_HDR'
+  }
+}
+define service ZUI_CIT_STUDCT_HDR_O4 provider contracts odata_v4_ui {
+  expose ZC_CIT_STUDCT_HDR;
+}

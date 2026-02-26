@@ -1,0 +1,11 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "SAP Object Node Type ZCIT_STUDCT_HDR",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "name": "ZCIT_STUDCT_HDR",
+  "sapObjectType": "ZCIT_STUDCT_HDR",
+  "rootNode": true
+}
